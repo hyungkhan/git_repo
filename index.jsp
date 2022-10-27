@@ -30,7 +30,8 @@ String name = (String)session.getAttribute("memName");
 </h5>
 </body>
 </html>
-<!-- 
+<!--
+	   아아아아아아아아아아아아아아
 목록을 만들어 - 한 페이지당 5개씩
 글번호 제목 작성자 작성일 조회수 
 1. 작성자는 id로 가져와
